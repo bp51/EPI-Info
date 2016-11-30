@@ -491,8 +491,8 @@ public class SyncFileGenerator {
 	}
 
 	private boolean setupAesCipher(String password) {
-		String initVector = "0D0B020A0405060708090A0B0A0D0E0F"; 
-		String salt = "05010203340906000809";
+		String initVector = "";
+		String salt = "";
 
 		int RFC = 1000;
 		String _providerName = "BC";
