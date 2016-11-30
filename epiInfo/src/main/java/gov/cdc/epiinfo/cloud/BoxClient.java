@@ -69,8 +69,8 @@ public class BoxClient implements BoxAuthentication.AuthListener, ICloudClient {
 		try
 		{
 			BoxConfig.IS_LOG_ENABLED = true;
-			BoxConfig.CLIENT_ID = "x87efslud4bo81cl9oeocjwzqmcr9kc4";
-			BoxConfig.CLIENT_SECRET = "tGA384Zkct7BdCbsdLEd4sGhtUL7wZMa";
+			BoxConfig.CLIENT_ID = "";
+			BoxConfig.CLIENT_SECRET = "";
 			BoxSession session = new BoxSession(context);
 			session.logout();
 		}
@@ -88,8 +88,8 @@ public class BoxClient implements BoxAuthentication.AuthListener, ICloudClient {
 			this.tableName = tableName;
 
 			BoxConfig.IS_LOG_ENABLED = true;
-			BoxConfig.CLIENT_ID = "x87efslud4bo81cl9oeocjwzqmcr9kc4";
-			BoxConfig.CLIENT_SECRET = "tGA384Zkct7BdCbsdLEd4sGhtUL7wZMa";
+			BoxConfig.CLIENT_ID = "";
+			BoxConfig.CLIENT_SECRET = "";
 
 			if (tableName.startsWith("_"))
 			{
