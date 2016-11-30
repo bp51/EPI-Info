@@ -1,0 +1,539 @@
+[
+    {
+        "outputFile": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-ko/values-ko.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 66,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 110,
+                        "endColumn": 66,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endColumn": 60,
+                    "endOffset": 233
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 60,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 238,
+                    "endColumn": 88,
+                    "endOffset": 322
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 238,
+                        "endColumn": 88,
+                        "endOffset": 322
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 327,
+                    "endColumn": 44,
+                    "endOffset": 367
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 44,
+                        "endOffset": 367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 372,
+                    "endColumn": 46,
+                    "endOffset": 414
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 372,
+                        "endColumn": 46,
+                        "endOffset": 414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 419,
+                    "endColumn": 54,
+                    "endOffset": 469
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 419,
+                        "endColumn": 54,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 474,
+                    "endColumn": 47,
+                    "endOffset": 517
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endColumn": 47,
+                        "endOffset": 517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 522,
+                    "endColumn": 58,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endColumn": 58,
+                        "endOffset": 576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 57,
+                    "endOffset": 634
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 581,
+                        "endColumn": 57,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 639,
+                    "endColumn": 44,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 639,
+                        "endColumn": 44,
+                        "endOffset": 679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 684,
+                    "endColumn": 69,
+                    "endOffset": 749
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 684,
+                        "endColumn": 69,
+                        "endOffset": 749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 754,
+                    "endColumn": 122,
+                    "endOffset": 872
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 754,
+                        "endColumn": 122,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 877,
+                    "endColumn": 67,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 877,
+                        "endColumn": 67,
+                        "endOffset": 940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 72,
+                    "endOffset": 1013
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 945,
+                        "endColumn": 72,
+                        "endOffset": 1013
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1018,
+                    "endColumn": 68,
+                    "endOffset": 1082
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1018,
+                        "endColumn": 68,
+                        "endOffset": 1082
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1087,
+                    "endColumn": 74,
+                    "endOffset": 1157
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1087,
+                        "endColumn": 74,
+                        "endOffset": 1157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1162,
+                    "endColumn": 104,
+                    "endOffset": 1262
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1162,
+                        "endColumn": 104,
+                        "endOffset": 1262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1267,
+                    "endColumn": 78,
+                    "endOffset": 1341
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1267,
+                        "endColumn": 78,
+                        "endOffset": 1341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1346,
+                    "endColumn": 48,
+                    "endOffset": 1390
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1346,
+                        "endColumn": 48,
+                        "endOffset": 1390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1395,
+                    "endColumn": 85,
+                    "endOffset": 1476
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1395,
+                        "endColumn": 85,
+                        "endOffset": 1476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1481,
+                    "endColumn": 74,
+                    "endOffset": 1551
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1481,
+                        "endColumn": 74,
+                        "endOffset": 1551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1556,
+                    "endColumn": 83,
+                    "endOffset": 1635
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1556,
+                        "endColumn": 83,
+                        "endOffset": 1635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1640,
+                    "endColumn": 75,
+                    "endOffset": 1711
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1640,
+                        "endColumn": 75,
+                        "endOffset": 1711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1716,
+                    "endColumn": 85,
+                    "endOffset": 1797
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1716,
+                        "endColumn": 85,
+                        "endOffset": 1797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1802,
+                    "endColumn": 81,
+                    "endOffset": 1879
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1802,
+                        "endColumn": 81,
+                        "endOffset": 1879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1884,
+                    "endColumn": 106,
+                    "endOffset": 1986
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1884,
+                        "endColumn": 106,
+                        "endOffset": 1986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1991,
+                    "endColumn": 69,
+                    "endOffset": 2056
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-ko/values-ko.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1991,
+                        "endColumn": 69,
+                        "endOffset": 2056
+                    }
+                }
+            }
+        ]
+    }
+]

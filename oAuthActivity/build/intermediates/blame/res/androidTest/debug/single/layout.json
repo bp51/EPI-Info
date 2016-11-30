@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/res/merged/androidTest/debug/layout/boxsdk_choose_auth_activity.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/layout/boxsdk_choose_auth_activity.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/res/merged/androidTest/debug/layout/ssl_certificate.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/layout/ssl_certificate.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/res/merged/androidTest/debug/layout/boxsdk_activity_oauth.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/layout/boxsdk_activity_oauth.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/res/merged/androidTest/debug/layout/boxsdk_alert_dialog_text_entry.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/layout/boxsdk_alert_dialog_text_entry.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/res/merged/androidTest/debug/layout/boxsdk_list_item_new_account.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/layout/boxsdk_list_item_new_account.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/res/merged/androidTest/debug/layout/boxsdk_list_item_account.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/layout/boxsdk_list_item_account.xml"
+    }
+]

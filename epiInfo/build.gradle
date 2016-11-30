@@ -1,0 +1,29 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "25.0.1"
+    useLibrary 'org.apache.http.legacy'
+
+    defaultConfig {
+        applicationId "gov.cdc.epiinfo"
+        minSdkVersion 15
+        targetSdkVersion 22
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':main')
+    compile project(':oAuthActivity')
+    compile 'com.google.android.gms:play-services:+'
+    compile 'com.android.support:appcompat-v7:21.0.3'
+    compile 'net.schmizz:sshj:0.10.0'
+    compile 'org.slf4j:slf4j-android:1.7.21'
+}

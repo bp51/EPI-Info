@@ -1,0 +1,539 @@
+[
+    {
+        "outputFile": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-nb/values-nb.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 60,
+                    "endOffset": 111
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 116,
+                    "endColumn": 83,
+                    "endOffset": 195
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 83,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 200,
+                    "endColumn": 76,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 200,
+                        "endColumn": 76,
+                        "endOffset": 272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endColumn": 105,
+                    "endOffset": 378
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 277,
+                        "endColumn": 105,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 383,
+                    "endColumn": 48,
+                    "endOffset": 427
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 48,
+                        "endOffset": 427
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 432,
+                    "endColumn": 52,
+                    "endOffset": 480
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 432,
+                        "endColumn": 52,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 485,
+                    "endColumn": 62,
+                    "endOffset": 543
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endColumn": 62,
+                        "endOffset": 543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 548,
+                    "endColumn": 53,
+                    "endOffset": 597
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 548,
+                        "endColumn": 53,
+                        "endOffset": 597
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 602,
+                    "endColumn": 60,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 602,
+                        "endColumn": 60,
+                        "endOffset": 658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 663,
+                    "endColumn": 70,
+                    "endOffset": 729
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 70,
+                        "endOffset": 729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 734,
+                    "endColumn": 46,
+                    "endOffset": 776
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 734,
+                        "endColumn": 46,
+                        "endOffset": 776
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 781,
+                    "endColumn": 86,
+                    "endOffset": 863
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 781,
+                        "endColumn": 86,
+                        "endOffset": 863
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 868,
+                    "endColumn": 169,
+                    "endOffset": 1033
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 868,
+                        "endColumn": 169,
+                        "endOffset": 1033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1038,
+                    "endColumn": 78,
+                    "endOffset": 1112
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1038,
+                        "endColumn": 78,
+                        "endOffset": 1112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1117,
+                    "endColumn": 76,
+                    "endOffset": 1189
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1117,
+                        "endColumn": 76,
+                        "endOffset": 1189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1194,
+                    "endColumn": 74,
+                    "endOffset": 1264
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1194,
+                        "endColumn": 74,
+                        "endOffset": 1264
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1269,
+                    "endColumn": 79,
+                    "endOffset": 1344
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1269,
+                        "endColumn": 79,
+                        "endOffset": 1344
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1349,
+                    "endColumn": 136,
+                    "endOffset": 1481
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1349,
+                        "endColumn": 136,
+                        "endOffset": 1481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1486,
+                    "endColumn": 82,
+                    "endOffset": 1564
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1486,
+                        "endColumn": 82,
+                        "endOffset": 1564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1569,
+                    "endColumn": 51,
+                    "endOffset": 1616
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1569,
+                        "endColumn": 51,
+                        "endOffset": 1616
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1621,
+                    "endColumn": 101,
+                    "endOffset": 1718
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1621,
+                        "endColumn": 101,
+                        "endOffset": 1718
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1723,
+                    "endColumn": 85,
+                    "endOffset": 1804
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1723,
+                        "endColumn": 85,
+                        "endOffset": 1804
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1809,
+                    "endColumn": 100,
+                    "endOffset": 1905
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1809,
+                        "endColumn": 100,
+                        "endOffset": 1905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1910,
+                    "endColumn": 95,
+                    "endOffset": 2001
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1910,
+                        "endColumn": 95,
+                        "endOffset": 2001
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2006,
+                    "endColumn": 101,
+                    "endOffset": 2103
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2006,
+                        "endColumn": 101,
+                        "endOffset": 2103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2108,
+                    "endColumn": 103,
+                    "endOffset": 2207
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2108,
+                        "endColumn": 103,
+                        "endOffset": 2207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2212,
+                    "endColumn": 155,
+                    "endOffset": 2363
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2212,
+                        "endColumn": 155,
+                        "endOffset": 2363
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2368,
+                    "endColumn": 69,
+                    "endOffset": 2433
+                },
+                "from": {
+                    "file": "/Users/asad/StudioProjects/EpiInfo/oAuthActivity/build/intermediates/bundles/debug/res/values-nb/values-nb.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2368,
+                        "endColumn": 69,
+                        "endOffset": 2433
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,3 @@
+include ':oAuthActivity'
+include ':main'
+include ':epiInfo'

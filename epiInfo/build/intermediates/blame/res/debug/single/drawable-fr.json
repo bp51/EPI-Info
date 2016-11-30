@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/drawable-fr/collect_rect.png",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/drawable-fr/collect_rect.png"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/drawable-fr/analysis_rect.png",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/drawable-fr/analysis_rect.png"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/drawable-fr/cd_up.png",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/drawable-fr/cd_up.png"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/drawable-fr/cd_down.png",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/drawable-fr/cd_down.png"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/drawable-fr/ad_down.png",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/drawable-fr/ad_down.png"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/drawable-fr/ad_up.png",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/drawable-fr/ad_up.png"
+    }
+]

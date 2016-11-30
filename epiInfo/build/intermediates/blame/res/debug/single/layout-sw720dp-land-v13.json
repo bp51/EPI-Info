@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/statcalc_binomial.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/statcalc_binomial.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/barcode_dialog.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/barcode_dialog.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/list_item.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/list_item.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/view_dialog_for_analysis.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/view_dialog_for_analysis.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/analysis_means.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/analysis_means.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/statcalc_chi_square.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/statcalc_chi_square.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/loc_dialog.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/loc_dialog.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/admin_password_dialog.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/admin_password_dialog.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/statcalc_poisson.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/statcalc_poisson.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/statcalc_unmatched.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/statcalc_unmatched.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/statcalc_main.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/statcalc_main.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/analysis_two_by_two.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/analysis_two_by_two.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/interviewer.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/interviewer.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/entry.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/entry.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/statcalc_population_survey.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/statcalc_population_survey.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/line_list.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/line_list.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/analysis.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/analysis.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/statcalc_cohort.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/statcalc_cohort.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/statcalc_matched_pair.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/statcalc_matched_pair.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/analysis_chart_pie.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/analysis_chart_pie.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/two_by_two.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/two_by_two.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/analysis_frequency.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/analysis_frequency.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/line_list_row.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/line_list_row.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/map_viewer.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/map_viewer.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/small_spinner_item.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/small_spinner_item.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/summary_2x2_dialog.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/summary_2x2_dialog.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/statcalc_two_by_two.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/statcalc_two_by_two.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/record_edit.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/record_edit.xml"
+    },
+    {
+        "merged": "/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/res/merged/debug/layout-sw720dp-land-v13/view_dialog.xml",
+        "source": "/Users/asad/StudioProjects/EpiInfo/epiInfo/src/main/res/layout-sw720dp-land/view_dialog.xml"
+    }
+]

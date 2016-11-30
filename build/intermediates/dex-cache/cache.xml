@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/asad/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.50/be504b4901d75cbe129a178f5830e6c358ec214c/bcprov-jdk15on-1.50.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="be504b4901d75cbe129a178f5830e6c358ec214c">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/bcprov-jdk15on-1.50_118ca368e457bcacf5fc047a3882dbdc22729c43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.0.1_1af022778f712b40a7198391865d4e272b08b2ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.0.1_16e71a2ef135d01fa3383e352443bde222cffe66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_f9f52d80af37319968200697c5a932f0c779cff8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.0.1_6a130e099b5104d20bbf8de1364cc7b137792cc0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.0.1_7fa6aa7bb1c883b6cf62cc891f249444dda8a567/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_d5dd35656f43748734bbb68c92f33969549f079a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9fb4729646e2687fedbbc11115c8b10aa5646654">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d7c8601038084aa9467ded89ae697114c9f8d445/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.0.1_e83166adc841db0c497dd1a88adc9c4eac5259f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.0.1_410ba5ab7f4c26ffd47422b39636a903ab533b9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.0.1_b94eac6d504580d286591ebc7b4c2c0a2e57f212/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_fba0854797aa8f3504574f4717e9d884da57bc8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.0.1_a864b5685c9b96f6f4097e9c79855de48f92ba58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/.gradle/caches/modules-2/files-2.1/net.schmizz/sshj/0.10.0/35d313db208a25189962266a9bd36553310c65f6/sshj-0.10.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="35d313db208a25189962266a9bd36553310c65f6">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/sshj-0.10.0_dd757a4006a16c868d7ba8371d3c10d84de07dd3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_b9b28d5b42e4ac32446d4ae35ed004593d18dc0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.0.1_77eb329462750c6dbbc0072cf35acad6127b4b2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.1_9c72057f1f479af0736ca29a9d787c977dbd00e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.0.1_9ee803c51c47cebe31c05127ff8cc9056a4b0760/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_4085af8eff72deaa4f857c3e20e3e9550f1fa693/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.0.1_fb970c28056f93c99b93402be2f5bda6bbb79286/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.0.1_acb35f60dfa522f5112c2b422baf0e973202478e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_65b0a0a1ce660f7739b80a941c2b249c9363acdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-v4-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_07a6748ea69d44815d033694d58ce46584f42cde/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.0.1_ab43625e1cb00d7173306c1d9926360f7c2899cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_2738faf1b36d38b1b3f82d517f0b1a9a96dd733d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.0.1_a1342008e144ba3f02d22ee716a72c9ee9124403/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c9f25675ba26502c818b1300b2218f711dbab082">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d174e8fcb2a078813588a6e6ce5fdea24f2af708/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.1_e1f327c8e245bd8f65ffa919656ae210c2e83efc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.0.1_a9a159c122bdaef14669b529842b6a9ad8544d6e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_fc8e4e66d6519a36087c678b43da2d43bbaa51f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.1_8bd2dfe4a821b2054b030a54e70611a1ec86647d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.1_3ac378748f58a92657fc1bd85826436229996858/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.1_e741286d8036842a70afde730419c4e4767612d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.0.1_c1631b7df3fa26e4895cba63fcc0a93c540ea007/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.1_4149d7d55346ac15667209742055d28f5b915852/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.1_8acc5fb8dfa665ec5472fedc37f417fca503ee8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_c5eeef0302fb9717c17612c5ab37564de0c21a36/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-android/1.7.21/f4f6a07c00f3996d8db58c85a3d73377b40611eb/slf4j-android-1.7.21.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f4f6a07c00f3996d8db58c85a3d73377b40611eb">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-android-1.7.21_4af6f66958e7948add89550734e07c84be328e9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.0.1_ff79f67c10206c659dd9f5dead315be292663c31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.21/139535a69a4239db087de9bab0bee568bf8e0b70/slf4j-api-1.7.21.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="139535a69a4239db087de9bab0bee568bf8e0b70">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/slf4j-api-1.7.21_d8e5f5cc0be1ede630d532355acd7a10f2f7aa9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_c58eb55a54ee6a9a25086bb1cc95f052739e9f40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.1_8fdafe19f44113f04083399e34e5f98a5b565151/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.0.1_51bb380480ca5b22b4faddda0809acd0d3807e1e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.firebase/firebase-appindexing/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.0.1_ecd126aa7360ff5cad4a1a60ac04c300a97b9c77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.1_f9ff9c88de2c84df0a3499c0b8eb281830dea7a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_901f3e52c625203c7d3379097af4f5b95fa0fa95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.0.1_a82580a4d9735e7397d749890c9470808b018f72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.0.1_ca7160c5fdb25ad7bb4f4f767f26c917fc210595/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.0.1_d13e3f5d1a812b49a7f40497235bedb32cd64e83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.0.1_f1eb8f1f7844e6cf40a36e2a51ee7a25a60a01a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_e9f607a10d64f9e52f9a47265a5f643d8cc90ffb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_3ea8530368906c2a157a79f16e7d9a3f7b51682a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.1_0c2ac810b1e21f50b061062a408478cd749b8f2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcpkix-jdk15on/1.50/f82f869cbf31fdb3419487dd58f4189c33ec9acd/bcpkix-jdk15on-1.50.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f82f869cbf31fdb3419487dd58f4189c33ec9acd">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/bcpkix-jdk15on-1.50_19702d77e3fde713973ce23424b13f7e6fb34e9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_563bb71b1337cca46e4d9c6fd816075eb1017769/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.0.1_62741f5779e5e2f15673d15f4e0db763fed773a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.0.1_31cb9387719968db12351b0a3c514e358c50ca9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.0.1_d8342490612aa85125933305f91935a2c613d658/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.0.1_cdbc4ec3764c2e307a7b4f29162839b1d35028e9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_b1a52fcdb557eccd75b0f55c8122818532175d83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.0.1_91c087f32b768ded2b4e94a1f01c06613792f7fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.0.1_ceab8fdad97657df362cb0c8a45e623644c3dc0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_3e6b5b895b7735861a4d96fe3d3ba2e4a431aa37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.0.1_63291bb83680045fcd903f841a289755f9f8d203/classes.dex" />
+    </item>
+
+</items>
