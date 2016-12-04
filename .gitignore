@@ -2,6 +2,10 @@
 *.xcuserdatad
 *.xcuserstate
 *.xccheckout
+*.lock
+*.bin
+
+EPI-Info.iml
 
 .idea
 */.idea
