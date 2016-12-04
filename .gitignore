@@ -3,28 +3,14 @@
 *.xcuserstate
 *.xccheckout
 
+.idea
+*/.idea
+
+build
+*/build
+
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
-
-# User-specific stuff:
-vmis-api/.idea/*
-web/app/.idea/*
-web/.idea/*
-
-# Sensitive or high-churn files:
-.idea/dataSources.ids
-.idea/dataSources.xml
-.idea/dataSources.local.xml
-.idea/sqlDataSources.xml
-.idea/dynamic.xml
-.idea/uiDesigner.xml
-
-# Gradle:
-.idea/gradle.xml
-.idea/libraries
-
-# Mongo Explorer plugin:
-.idea/mongoSettings.xml
 
 ## File-based project format:
 *.iws
@@ -70,23 +56,9 @@ coverage
 # node-waf configuration
 .lock-wscript
 
-# Compiled binary addons (http://nodejs.org/api/addons.html)
-build
-
 # Dependency directories
 node_modules
 jspm_packages
 
 # Optional npm cache directory
 .npm
-
-# Optional REPL history
-.node_repl_history
-vmis-api/config/config.json
-local.cnf
-db_backup.sql
-create_new_tables_myarmyonesource.sql
-update_myarmyonesource.sql
-.idea
-config.json
-non-destructive-inserts.sql

@@ -1,7 +1,0 @@
-#Tue Nov 29 15:17:25 EST 2016
-base.0=/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d7c8601038084aa9467ded89ae697114c9f8d445
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d174e8fcb2a078813588a6e6ce5fdea24f2af708/classes.dex
-base.1=/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d174e8fcb2a078813588a6e6ce5fdea24f2af708
-file.0=/Users/asad/StudioProjects/EpiInfo/epiInfo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d7c8601038084aa9467ded89ae697114c9f8d445/classes.dex
